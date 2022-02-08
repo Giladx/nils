@@ -226,3 +226,19 @@ h3 {
     }
 }
 
+@media only screen and (max-width: 240px){
+    body input+label {
+        right: 10px;
+    }
+
+    h3 {
+        font-family: 'Rubik Beastly', cursive;
+        font-size: 30px;
+    }
+    h2{
+        font-size: 12px;
+    }
+}
+
+
+
